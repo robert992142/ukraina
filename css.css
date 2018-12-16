@@ -1,0 +1,31 @@
+html {
+    margin: 0;
+}
+body {
+    margin: 0;
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+
+
+}
+
+h1 {
+    font-size: 60px;
+    color: yellow;
+    margin-top: 15px;
+}
+#carouselExampleFade {
+    width: 60%;
+    height: 30%;
+    margin-left: auto;
+    margin-right: auto;
+        
+}
+
+#carousel-item active {
+    <div style="background: url(''); height: 200px; width: 200px;">tekst</div>
+}
